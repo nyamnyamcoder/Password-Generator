@@ -11,8 +11,6 @@ let pass1copiedEl = document.getElementById("password1copied")
 let pass2copiedEl = document.getElementById("password2copied")    
 let passlength = 0
 
-console.log(passlength)
-
 // trigger creation of new passwords
 function triggerpassword() {
 
